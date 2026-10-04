@@ -1,0 +1,6 @@
+openai>=1.0
+SpeechRecognition
+PyAudio
+pyttsx3
+gTTS
+playsound
